@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @youngstowndigital
 - 👀 I’m interested in web technologies
-- 🌱 I’m currently learning typescript
+- 🌱 I’m currently learning javascript and AWS/Serverless architecture
 
 <!---
 youngstowndigital/youngstowndigital is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
